@@ -1,5 +1,5 @@
 {
-    "name": "orumad/laravel-redsys-gateway",
+    "name": "danielmrdev/laravel-redsys-gateway",
     "description": "Laravel package to integrate the spanish Redsys payment gateway",
     "keywords": [
         "orumad",
